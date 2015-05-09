@@ -78,6 +78,6 @@ Opening my bag, I inspected my mysterious prize once again. I paged through the 
 >
 > --Evoon the Sage, Year 1260 of the Third Age
 
-I stayed up nearly the whole night, reading the strange and wondrous descriptions within. I barely noticed the passage of midnight, and leaving my desk, I fell into a deep, dreamless sleep. This morning I awoke to a knock on the door from my father, who had come down to help me move out. Just today I had a chance to write these thoughts into a form suitable for publication, but I must mull over many of the other things I have read before I place them here.
+I read the strange and wondrous descriptions within for hours. I just barely noticed the passage of midnight, and leaving my desk, I fell into a deep, dreamless sleep. This morning I awoke to a knock on the door from my father, who had come down to help me move out. Just today I had a chance to write these thoughts into a form suitable for publication, but I must mull over many of the other things I have read before I place them here.
 
 If you have any works which mention the name "Tum," or come across any mention of *Omen Dictums*, please write to me. As I have indeed committed a crime, I must take some efforts to protect my identity. I may be reached at 'librariansoftum@mailinator.com'. I hope to have a more permanent channel for communications soon.

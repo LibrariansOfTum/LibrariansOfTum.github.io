@@ -1,0 +1,12 @@
+# Site settings
+title: Librarians of Tum
+email: librariansoftum@mailinator.com
+description: >
+  Documenting the search for the truth about Tum
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://librariansoftum.github.io" # the base hostname & protocol for your site
+twitter_username: no
+github_username:  no
+
+# Build settings
+markdown: kramdown

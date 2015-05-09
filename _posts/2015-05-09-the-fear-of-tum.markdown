@@ -2,6 +2,7 @@
 layout: post
 title:  The Fear of Tum
 date:   2015-05-09 16:23:36
+description: A first-hand description of Tum from Baakalor the Intrepid.
 ---
 
 The following section from *Omen Dictums* is emblematic of much of the book - sections from another's account, in a different voice, with different details, and yet common elements. The language (and author's title) is wizened, and yet there are elements which come directly from modern experience. I can only understand this and many other accounts in the context of a *past-future*, a timeline which exists separate from our own and yet has shared pieces.

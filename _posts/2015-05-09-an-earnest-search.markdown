@@ -2,6 +2,7 @@
 layout: post
 title:  "An Earnest Search"
 date:   2015-05-09 14:00:14
+description: My story begins. How I acquired "Omen Dictums of Ump".
 ---
 In all religions, we find at least two common denominators.
 

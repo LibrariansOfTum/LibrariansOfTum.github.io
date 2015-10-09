@@ -2,7 +2,7 @@
 layout: post
 title: Finding the Cube of Shrun
 description: A Mysterious Object
-date: 2015-10-09 10:25:01
+date: 2015-10-10 10:25:01
 ---
 
 > The following message carries the highest priority.  It is for your eyes only and should be destroyed upon reading.  Our agency is working to suppress all knowledge of the object until such time as we understand its full meaning.  For what it's worth, sir, I hope they can make sense of this soon.  I don't like what it implies.

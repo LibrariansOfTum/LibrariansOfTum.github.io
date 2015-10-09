@@ -17,4 +17,4 @@ A great Seer, Roob Derfy the Cursed, writes of one of the home realms of Tum, a 
 > 
 > As the two forms merge with the horizon, I realize that I don't remember how I came to this lonely void.  But I know that I've seen something no mortal should see.  I've seen the end, and I realize that WE are its destination.  And then the dream ends, and I wake trembling in my bed.  I have had this dream every night for the last eight months.  But I know it isn't just a dream.  Something is coming."
 >
-> *--Seer Roob Derfy the Cursed, pre-cataclysm etching discovered in the ruins of the Tomb of the Emperors*
+> --Seer Roob Derfy the Cursed, pre-cataclysm etching discovered in the ruins of the Tomb of the Emperors

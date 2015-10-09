@@ -2,7 +2,7 @@
 layout: post
 title: The Wastelands
 description: One of the realms of Tum
-date: 2015-05-10 12:34:23
+date: 2015-10-09 10:01:01
 ---
 
 A great Seer, Roob Derfy the Cursed, writes of one of the home realms of Tum, a desolate wasteland.

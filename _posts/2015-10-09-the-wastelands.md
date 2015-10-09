@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Wastelands
-description: One of the realms of Tum
+description: One of the realms of Tum.
 date: 2015-10-09 10:01:01
 ---
 
